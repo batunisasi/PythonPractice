@@ -1,5 +1,5 @@
 #string variables
-first_name = "steve"
+first_name = "batunisasi"
 food = "mie ayam"
 email = "batunisasi@gmail.com"
 game_name = "Red Dead Redemption 2"
